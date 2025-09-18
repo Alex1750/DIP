@@ -1,0 +1,78 @@
+* {
+    font-family: 'Trebuchet MS', sans-serif;
+    color: darkblue;
+}
+
+#library {
+    margin-left: 10;
+    margin-top: 10px;
+    background-color: rgb(220, 220, 220);
+    border-radius: 10px;
+    border: 2px solid gray;
+    padding: 15px;
+    max-width: 750;
+}
+
+h2 {
+    margin: 0;
+}
+
+.function {
+    font-family: monospace;
+    font-size: 20;
+    font-weight: bold;
+    color: azure;
+    background-color: rgb(69, 69, 69);
+}
+
+.code {
+    font-family: monospace;
+    font-size: 15;
+    color: azure;
+    background-color: rgb(69, 69, 69);
+}
+
+.tcode {
+    color: black;
+    font-weight: bold;
+    font-size: 15;
+    font-family: monospace;
+}
+
+.dcode {
+    color: azure;
+    font-size: 15;
+    font-family: monospace;
+    background-color: black;
+    padding: 10;
+}
+
+table, th, td {
+    border: 2px solid black;
+    border-collapse: collapse;
+    min-width: 70;
+    padding: 2px;
+}
+
+table {
+    border: 3px solid black;
+    text-align: center;
+}
+
+.top {
+    background-color: cadetblue;
+}
+
+#end {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: rgb(0, 0, 75);
+}
+
+#end h2 {
+    color: azure;
+}
+
+#end a {
+    color:mediumpurple;
+}
